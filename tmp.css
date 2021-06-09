@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+  margin: 0 auto 0 auto;
+}
+html {
+	text-align: center;
+	height: 100%;
+}
+p {text-align: left;}
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000; /* Old browsers */
+	background-image: url(../images/background8.png);
+	background-repeat: repeat-x;
+	background-color: #01B5B7;
+}
+.outerContainer {
+	height: 100%;
+	padding-bottom: 64px;
+}
+.innerContainer {
+	width: 960px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.header {
+	height: 211px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+.logo {
+	float: left;
+	height: 180px;
+	width: 320px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+a img{
+border:0;
+}
+.logo img {
+
+}
+
+.navigation {
+	overflow: hidden;
+	float: right;
+	width: 325px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 40px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+}
+.navigation li {
+	float: left;
+	cursor: pointer;
+	list-style-type: none;
+	-webkit-transition: all 0.3s ease-in;
+	-moz-transition: all 0.3s ease-in;
+	-o-transition: all 0.3s ease-in;
+}
+.navigation li:hover {
+	color: #F3F;
+	font-weight: bolder;
+}
+
+.navigation ul li a {
+	text-decoration: none;
+	color: #000;
+
+}
+
+.mainPic {
+	margin-top: 12px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	height: 467px;
+	width: 700px;
+	box-shadow: 0 2px 10px 2px rgba(0, 0, 0, 0.2);
+}
+.mainContent {
+	width: 760px;
+	line-height: 2em;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 16px;
+	font-weight: normal;
+}
+.mainContent  a {
+	text-decoration: none;
+	color: #000;
+}
+.mainContent h2 {
+	padding-bottom: 15px;
+	color: #9C8B31;
+	font-size: 26px;
+	font-weight: bold;
+}
+#galleryInformation
+{
+font-family:Palatino Linotype, Franklin Gothic Medium, Arial;
+padding:0px;
+margin:0px;
+padding-top:5px;
+font-size:15px;
+letter-spacing:1px;
+}
+
+
+#galleryInformation h2
+{
+margin-top:8px;
+font-family:Palatino Linotype, Franklin Gothic Medium, Arial;
+font-size:26px;
+padding:0px;
+letter-spacing:-1px;
+}
+
+
+#galleryInformation p
+{
+color: #000000;
+padding:2px;
+padding-left:12px;
+text-align:justify;
+}
+/* Overwritting some Galleria settings */
+    #main_image{margin:0px auto 10px auto;}
+    #main_image img{margin-bottom:2px; height:auto;width:600px;}
+
+	
+	.galleria_wrapper, .galleria_container
+	{
+	text-align: center;
+	}
+	
+	.caption
+	{
+	color: #9C8B31;
+	font-size:15px;
+	}
+	
+	#topContent
+	{
+	height:105px;
+	}
+	
+	#topContent #rightTopContent
+	{
+	font-family:Palatino Linotype, Franklin Gothic Medium, Arial;
+	line-height:105px;
+	font-size:21px;
+	text-align:right;
+	}
+	
+	#topContent #rightTopContent a
+	{
+	margin-right:10px;
+	margin-left:10px;
+	}
+	#topContent #rightTopContent a:hover
+	{
+	border-bottom-style: none;
+	border-bottom-color: #D76FBA;
+	}
+	
+/* Footer */
+.footer {
+	clear: both;
+	color: #FFF;
+	height: 40px;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
