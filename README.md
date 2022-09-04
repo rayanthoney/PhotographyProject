@@ -1,11 +1,12 @@
 # PhotographyProject
 HTML5 Photography Project practice build. 
 
-<p align="center">
-<img src="images/bird-5830293.svg" width=200 >
-</p>
+![alt tag](https://picsum.photos/600/300)
 
- ### Image by 
-<p align="center"> 
-  <a href="https://pixabay.com/users/violkaart-19192554/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5830293">ViolkaArt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5830293">Pixabay</a>>
+## How It's Made:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
 </p>
