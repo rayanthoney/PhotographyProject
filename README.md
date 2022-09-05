@@ -2,7 +2,10 @@
 
 # 🛠️ My Awesome Photography Portfolio
 
-![alt tag](https://picsum.photos/600/300)
+
+<p align="center">
+  <img width="600" height="300" src="https://picsum.photos/600/300">
+</p>
 
 <div align="center" >
 <!-- link to project -->
@@ -34,6 +37,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 <br>
+<br>
 
 <!-- Software Icons -->
 <p align="center">
@@ -42,12 +46,7 @@ Here's where you can go to town on how you actually built this thing. Write as m
   </a>
 </p>
 <br>
-<!-- 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,md,powershell,linux,linkedin,twitter,instagram,discord," />
-  </a>
-</p> -->
+
 
 <!-- [![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=plastic&for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;
 [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=plastic&for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;
