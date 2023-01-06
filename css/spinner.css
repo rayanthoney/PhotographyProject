@@ -1,5 +1,6 @@
 :root {
   --primary-color: #f9b64d;
+
 }
 
 body {
@@ -8,4 +9,4 @@ body {
   line-height: 1.5;
   color: #333;
   background: #f4f4f4;
-}
+  }
