@@ -3,14 +3,14 @@
 # 🛠️ My Awesome
 
 <p align="center">
-  <img width="600" height="300" src="https://picsum.photos/600/300">
+<!--   <img width="600" height="300" src="https://picsum.photos/600/300"> -->
 </p>
 
 <div align="center" >
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="IMG SOURCE GOES HERE" alt="" height="100%"/>
+        <img src="https://picsum.photos/600/300" alt="" height="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
