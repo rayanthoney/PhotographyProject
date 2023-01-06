@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 
-# 🛠️ My Awesome Photography Portfolio
+# 🛠️ My Awesome
 
 
 <p align="center">
@@ -39,7 +39,7 @@ Here's where you can go to town on how you actually built this thing. Write as m
 <br>
 <br>
 
-<!-- Software Icons -->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
